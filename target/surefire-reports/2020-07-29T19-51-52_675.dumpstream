@@ -1,0 +1,4 @@
+# Created at 2020-07-29T19:51:53.228
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Automation\spicejet-search-framework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
